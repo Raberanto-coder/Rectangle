@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1721022454 source:c:\users\le 501 music\documents\codeblocks\pour_rectangle\main.cpp
+	<iostream>
+	"rectangle.h"
+
+1721025334 c:\users\le 501 music\documents\codeblocks\pour_rectangle\rectangle.h
+
+1721025120 source:c:\users\le 501 music\documents\codeblocks\pour_rectangle\rectangle.cpp
+	<iostream>
+	"rectangle.h"
+
